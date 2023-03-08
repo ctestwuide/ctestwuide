@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ctestwuide (Chase test-weed)
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning java at the University of Glasgow
-- 💞️ I’m looking to collaborate on projects to develop my portfolio
+- I’m interested in software development
+- I’m currently learning studying software development at the University of Glasgow
+- I’m looking for love, riches and fame, but for now, a job or some projects to develop my portoflio will do...
 - 📫 How to reach me: email me at ctestwuide@gmail.com
 
 <!---
