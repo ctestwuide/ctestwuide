@@ -1,6 +1,6 @@
 👋 Hi, I'm @ctestwuide (Chase Testwuide),
 
-🎓 My journey began with a focus on business, where I immersed myself in accounting and finance. The dynamism and challenges of technology always intrigued me, so I embarked on a transformative path, earning a Master's degree in Software Development from the University of Glasgow.
+🎓 My journey began with a focus on business, where I immersed myself in accounting, finance, marketing, and data analytics. The dynamism and challenges of technology always intrigued me, so I embarked on a transformative path, earning a Master's degree in Software Development from the University of Glasgow.
 
 💼 With this newly acquired knowledge, I'm actively seeking opportunities to launch my career in the tech industry. Though software development is close to my heart, my curiosity and eagerness to learn have led me to explore a wide spectrum of roles within the tech world.
 
@@ -8,6 +8,6 @@
 
 🚀 While I am relatively new to the tech scene, my background in business offers a unique perspective that enables me to approach problems holistically. I'm passionate about continuous learning, collaboration, and leveraging technology to create innovative solutions.
 
-🌐 If you're interested in connecting or exploring how I can contribute to your team, please feel free to email me at ctestwuide@gmail.com. Whether it's a job opportunity or a project that needs a fresh perspective, I'm excited to explore new challenges and grow my portfolio.
+🌐 If you're interested in connecting or exploring how I can contribute to your team, please feel free to email me at cdt@cornell.edu. Whether it's a job opportunity or a project that needs a fresh perspective, I'm excited to explore new challenges and grow my portfolio.
 
 Let's build something amazing together! 🚀
